@@ -1,0 +1,29 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+				Cyber Receipt		Date:Jun 28, 2017 6:05 PM
+___________________________________________________________________________
+
+	  Reference id		: 6045985
+      TimeStamp			: Jun 28, 2017 6:05 PM
+      Debit AccountId		: 2024833521
+      Credit AccountId		: 3001393733
+      Transaction Amount	: 43,700.00
+      Transaction Currency    	: NGN
+     
+
+      
+ __________________________________________________________________________
